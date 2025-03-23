@@ -6,10 +6,10 @@ Màn ngang.
 ## 2 Lối chơi:
 ### Game play chính:
 - Game play theo kiểu một màn sẽ chia ra nhiều tuyến đường, người chơi sẽ chọn tuyến đường cho mình. Đến mỗi phòng giết quái rồi lấy power up hoặc tham gia các sự kiện tại mỗi tuyến.
-- Power up: 3 loại: 
+- Power up: 3 loại (tăng chỉ số, thêm vũ khí phụ trợ).: 
 	+ Chỉ có lợi
-	+ Có lợi hơn với một chút hạn chế
-	+ Tăng giảm mạnh các chỉ số
+	+ Có lợi hơn với một chút hạn chế.
+	+ Tăng giảm mạnh các chỉ số.
 - Đa dạng các phòng / tạo phòng ngẫu nhiên. 
 - Mỗi phòng sẽ có khoảng 5 màn chơi nếu là phòng chiến đấu.
 - Mỗi phòng sẽ spawn quái và người chơi ở vị trí ngẫu nhiên. Người chơi phải giết hết quái mà không được chết.
