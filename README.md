@@ -11,9 +11,12 @@ Màn ngang.
 	+ Có lợi hơn với một chút hạn chế
 	+ Tăng giảm mạnh các chỉ số
 - Đa dạng các phòng / tạo phòng ngẫu nhiên. 
+- Mỗi phòng sẽ có khoảng 5 màn chơi nếu là phòng chiến đấu.
 - Mỗi phòng sẽ spawn quái và người chơi ở vị trí ngẫu nhiên. Người chơi phải giết hết quái mà không được chết.
+- Phòng cuối là boss.
 - Vũ khí và nhân vật chọn ở ngoài.
-- Mỗi khi bắt đầu màn chơi sẽ chọn 1 chiêu ngẫu nhiên (gồm 2 - 3 chiêu gồm của màn chơi và của nhân vật mặc đinh)
+- Mỗi khi bắt đầu màn chơi sẽ chọn 1 chiêu ngẫu nhiên (gồm 2 - 3 chiêu gồm của màn chơi và của nhân vật mặc đinh).
+- Chết không mất hết đồ mà mất theo % (Có thể giảm số lượng % bị mất bằng cách nâng công trình ở base).
 ### Nâng cấp:
 - Sử dụng vũ khí với các tính năng riêng.
 - Vũ khí có 3 loại: farm, mua, gacha.
@@ -30,6 +33,7 @@ Màn ngang.
 ### Tiền tệ trong game:
 - Gold: đơn vị cơ bản để nâng cấp hầu hết các thứ.
 - Gem: tiền tệ cao cấp khó kiếm hoặc không kiếm được, chỉ có thể có được thông qua nạp/ xem ad. Dùng để đổi sang các tài nguyên khác / mua các vật phẩm giới hạn.
+- Vé roll: dùng để roll vũ kh / skin.
 - Energy: có năng lượng thì chơi xong mới được thưởng. 
 - XP: dùng để lên cấp người chơi.
 - Character XP: dùng để nâng cấp nhân vật và vũ khí.
