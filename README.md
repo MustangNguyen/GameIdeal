@@ -1,8 +1,8 @@
 ## 1 Tổng quát
-Nền tảng Android + IOS.
-Thể loại: Rogue like + base manage.
-Không giới hạn lượt chơi nhưng giới hạn phần thưởng ở một mức nhất định.
-Màn ngang.
+- Nền tảng Android + IOS.
+- Thể loại: Rogue like + base manage.
+- Không giới hạn lượt chơi nhưng giới hạn phần thưởng ở một mức nhất định.
+- Màn ngang.
 ## 2 Lối chơi:
 ### Game play chính:
 - Game play theo kiểu một màn sẽ chia ra nhiều tuyến đường, người chơi sẽ chọn tuyến đường cho mình. Đến mỗi phòng giết quái rồi lấy power up hoặc tham gia các sự kiện tại mỗi tuyến.
