@@ -33,7 +33,9 @@ Tiền tệ trong game:
 - XP: dùng để lên cấp người chơi.
 - Character XP: dùng để nâng cấp nhân vật và vũ khí.
 - Build Materials: Các vật liệu để xây nhà.
-![[Pasted image 20250323194530.png]]![[Pasted image 20250323195141.png]]![[Pasted image 20250323194814.png]]
+![alt text](image-2.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 3 Thị trường 
 - Các game Roguelike thật sự với random map chưa có nhiều game phổ biến.
